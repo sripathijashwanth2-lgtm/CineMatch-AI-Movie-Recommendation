@@ -1,0 +1,18 @@
+# Python
+
+**pycache**/
+*.py[cod]
+venv/
+.venv/
+
+# Streamlit secrets
+
+.streamlit/secrets.toml
+
+# Environment variables
+
+.env
+
+# IDE files
+
+.vscode/
